@@ -1,0 +1,15 @@
+Name:Makarios Mansour
+NUID:002993532
+slack hours used: 0
+remaining slack hours: haven't used any yet
+Taking the challenge (optional): No
+
+---
+
+Collaborators (who you talked to about the lab, what you talked about):
+
+
+Source material that you consulted:
+the 6 commandments of multi-threading provided by Dr. Tan
+
+Other acknowledgments:
