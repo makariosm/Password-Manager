@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "lab3.h": "c",
-        "kvstore.h": "c",
-        "string.h": "c",
-        "stddef.h": "c",
-        "types.h": "c"
-    }
-}
