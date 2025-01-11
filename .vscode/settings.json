@@ -1,9 +1,0 @@
-{
-    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
-    "files.associations": {
-        "lab3.h": "c",
-        "json.h": "c",
-        "http_server.h": "c",
-        "kvstore.h": "c"
-    }
-}
