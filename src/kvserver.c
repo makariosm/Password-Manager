@@ -16,6 +16,7 @@
 #include "stats.h"
 #include "queue.h"
 #include "kvstore.h"
+#include "http_server.h"
 
 // === global variables ===
 queue_t wq;  // the working queue
@@ -146,6 +147,7 @@ void *dispatcher(void *file) {
 int main(int argc, char **argv)
 {
     init();
+    start_http_server();
 
     // number of threads
     int num_thread = 4;
